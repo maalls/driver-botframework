@@ -1,5 +1,5 @@
 {
-    "name": "maalls/botman/driver-botframework",
+    "name": "maalls/driver-botframework",
     "license": "MIT",
     "description": "Microsoft Bot Framework driver for BotMan",
     "keywords": [
